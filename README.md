@@ -1,4 +1,9 @@
-### Hi there 👋
+Howdy, I'm Chris. UX Engineer. Home Barista.
+
+<a rel="me" href="https://pond.design">Here's my personal website.</a>
+<a rel="me" href="https://mstdn.social/@ponddesign" />
+<a rel="me" href="https://threads.net/ponddesign" />
+<a rel="me" href="https://twitter.com/ponddesign" />
 
 <!--
 **ponddesign/ponddesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
