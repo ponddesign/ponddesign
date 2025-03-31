@@ -2,7 +2,6 @@ Howdy, I'm Chris. UX Engineer. Home Barista.
 
 - <a rel="nofollow me" href="https://pond.design">https://pond.design</a>
 - <a rel="nofollow me" href="https://bsky.app/profile/pond.design">https://bsky.app/profile/pond.design</a>
-- <a rel="nofollow me" href="https://mstdn.social/@ponddesign">https://mstdn.social/@ponddesign</a>
 - <a rel="nofollow me" href="https://threads.net/ponddesign">https://threads.net/ponddesign</a>
 
 <!--
