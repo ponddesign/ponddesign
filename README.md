@@ -3,7 +3,6 @@ Howdy, I'm Chris. UX Engineer. Home Barista.
 - <a rel="nofollow me" href="https://pond.design">https://pond.design</a>
 - <a rel="nofollow me" href="https://mstdn.social/@ponddesign">https://mstdn.social/@ponddesign</a>
 - <a rel="nofollow me" href="https://threads.net/ponddesign">https://threads.net/ponddesign</a>
-- <a rel="nofollow me" href="https://twitter.com/ponddesign">https://twitter.com/ponddesign</a>
 
 <!--
 **ponddesign/ponddesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
